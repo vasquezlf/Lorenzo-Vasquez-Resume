@@ -3,7 +3,7 @@ import { ResumeData } from './types';
 
 export const RESUME_DATA: ResumeData = {
   name: "Lorenzo Vasquez",
-  title: "IT Professional | Data & AI Automation Specialist",
+  title: "IT Professional | Help Desk Support & AI Workflows Generalist",
   bio: "I am an innovative IT Professional and Data Analyst bridging the gap between operational efficiency and cutting-edge AI. My expertise lies in orchestrating complex workflows using Power Automate, Power BI, and Advanced Excel, while pushing boundaries with LLM integration and AI video generation. Whether I'm developing full-stack web applications, managing enterprise projects, or providing critical IT support, I focus on building scalable, automated solutions that empower teams. I don't just manage data; I transform it into actionable intelligence.",
   skills: [
     "LLM Integration & Prompt Engineering",
@@ -122,4 +122,4 @@ export const RESUME_DATA: ResumeData = {
   }
 };
 
-export const INITIAL_GREETING = `Hi, I'm ${RESUME_DATA.name}'s AI assistant. I can tell you about his work in AI Automation, Data Analysis, and IT Systems. Ask me anything!`;
+export const INITIAL_GREETING = `Hi, I'm ${RESUME_DATA.name} (AI Version). I'm an IT Professional and Data & AI Automation Specialist. Ask me anything about my background, projects, or how I can help your team!`;
