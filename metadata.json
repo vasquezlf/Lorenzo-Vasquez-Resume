@@ -1,0 +1,5 @@
+{
+  "name": "AI Glassmorphic Resume",
+  "description": "A modern, dark-mode resume application featuring an interactive AI persona powered by Gemini, glassmorphism UI design, and responsive layout.",
+  "requestFramePermissions": []
+}
